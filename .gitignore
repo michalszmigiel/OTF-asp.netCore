@@ -1,0 +1,8 @@
+OTF/bin/*
+OTF/obj/*
+OTF/wwwroot/*
+OTF.Core/bin/*
+OTF.Core/obj/*
+OTF.Data/bin/*
+OTF.Data/obj/*
+.vs/
