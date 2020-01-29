@@ -5,4 +5,5 @@ OTF.Core/bin/*
 OTF.Core/obj/*
 OTF.Data/bin/*
 OTF.Data/obj/*
+OTF/node_modules/*
 .vs/
